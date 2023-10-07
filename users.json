@@ -1,0 +1,74 @@
+{
+  "backend": {
+    "name": "aviKrishna",
+    "age": "21",
+    "gender": "male",
+    "experience": "5 years",
+    "rating": "8 out of 10",
+    "contact": {
+      "address": "porur",
+      "phone": "8979695949"
+    }
+  },
+
+  "frontend": {
+    "name": "Prathiksha",
+    "age": "19",
+    "gender": "female",
+    "experience": "2 years",
+    "rating": "9 out of 10",
+    "contact": {
+      "address": "avadi",
+      "phone": "9549939542"
+    }
+  },
+
+  "database": {
+    "name": "Deepak",
+    "age": "22",
+    "gender": "male",
+    "experience": "8 years",
+    "rating": "9 out of 10",
+    "contact": {
+      "address": "manali",
+      "phone": "9897969594"
+    }
+  },
+
+  "ui/ux": {
+    "name": "Ajay",
+    "age": "22",
+    "gender": "male",
+    "experience": "9 years",
+    "rating": "7 out of 10",
+    "contact": {
+      "address": "tondiarpet",
+      "phone": "7868584838"
+    }
+  },
+
+  "app": {
+    "name": "Sanjay",
+    "age": "23",
+    "gender": "male",
+    "experience": "3 years",
+    "rating": "10 out of 10",
+    "contact": {
+      "address": "poonamalle",
+      "phone": "7348584920"
+    }
+  },
+
+  "game": {
+    "name": "Ak",
+    "age": "28",
+    "gender": "male",
+    "experience": "12 years",
+    "rating": "10 out of 10",
+    "contact": {
+      "address": "besant nagar",
+      "phone": "7292394506"
+    }
+  }
+
+}

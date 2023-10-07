@@ -1,5 +1,6 @@
 import random
 
+print()
 print("PROJECT RPG ")
 print()
 
@@ -9,6 +10,7 @@ print()
 passwordchar = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$&%"
 
 nofpassword = int(input("Enter the number of password you want: "))
+print()
 passlen = int(input("Enter a length of password: "))
 
 print()
